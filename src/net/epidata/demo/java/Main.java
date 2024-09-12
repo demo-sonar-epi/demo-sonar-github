@@ -11,6 +11,7 @@ public class Main {
 
 		target =- num;  // Noncompliant: target = -3. Is that the intended behavior?
 		target =+ num; // Noncompliant: target = 3
+
 		
 	}
 
